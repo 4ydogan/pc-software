@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pc-software/static/css/main.90802e8d.css",
-    "main.js": "/pc-software/static/js/main.bf4bfefc.js",
+    "main.js": "/pc-software/static/js/main.c675843c.js",
     "static/js/787.1ab3cf05.chunk.js": "/pc-software/static/js/787.1ab3cf05.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/pc-software/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/ElegantIcons.svg": "/pc-software/static/media/ElegantIcons.a3709f859357b50798d9.svg",
@@ -18,11 +18,11 @@
     "static/media/et-line.ttf": "/pc-software/static/media/et-line.cc7129c849c81d254698.ttf",
     "index.html": "/pc-software/index.html",
     "main.90802e8d.css.map": "/pc-software/static/css/main.90802e8d.css.map",
-    "main.bf4bfefc.js.map": "/pc-software/static/js/main.bf4bfefc.js.map",
+    "main.c675843c.js.map": "/pc-software/static/js/main.c675843c.js.map",
     "787.1ab3cf05.chunk.js.map": "/pc-software/static/js/787.1ab3cf05.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.90802e8d.css",
-    "static/js/main.bf4bfefc.js"
+    "static/js/main.c675843c.js"
   ]
 }
